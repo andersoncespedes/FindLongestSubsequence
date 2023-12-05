@@ -1,0 +1,14 @@
+C:\Users\APT02-63\Documents\FindLongestSubsequence\bin\Debug\net7.0\FindLongestSubsequence.exe
+C:\Users\APT02-63\Documents\FindLongestSubsequence\bin\Debug\net7.0\FindLongestSubsequence.deps.json
+C:\Users\APT02-63\Documents\FindLongestSubsequence\bin\Debug\net7.0\FindLongestSubsequence.runtimeconfig.json
+C:\Users\APT02-63\Documents\FindLongestSubsequence\bin\Debug\net7.0\FindLongestSubsequence.dll
+C:\Users\APT02-63\Documents\FindLongestSubsequence\bin\Debug\net7.0\FindLongestSubsequence.pdb
+C:\Users\APT02-63\Documents\FindLongestSubsequence\obj\Debug\net7.0\FindLongestSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT02-63\Documents\FindLongestSubsequence\obj\Debug\net7.0\FindLongestSubsequence.AssemblyInfoInputs.cache
+C:\Users\APT02-63\Documents\FindLongestSubsequence\obj\Debug\net7.0\FindLongestSubsequence.AssemblyInfo.cs
+C:\Users\APT02-63\Documents\FindLongestSubsequence\obj\Debug\net7.0\FindLongestSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\APT02-63\Documents\FindLongestSubsequence\obj\Debug\net7.0\FindLongestSubsequence.dll
+C:\Users\APT02-63\Documents\FindLongestSubsequence\obj\Debug\net7.0\refint\FindLongestSubsequence.dll
+C:\Users\APT02-63\Documents\FindLongestSubsequence\obj\Debug\net7.0\FindLongestSubsequence.pdb
+C:\Users\APT02-63\Documents\FindLongestSubsequence\obj\Debug\net7.0\FindLongestSubsequence.genruntimeconfig.cache
+C:\Users\APT02-63\Documents\FindLongestSubsequence\obj\Debug\net7.0\ref\FindLongestSubsequence.dll
